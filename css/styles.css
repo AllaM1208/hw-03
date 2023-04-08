@@ -146,7 +146,6 @@ body {
 
 
 /* ===== hero image section 1 ===== */
-
 .hero-image {
     background-color: var(--dark-background-color-1);
     padding-top: 188px;
@@ -191,6 +190,12 @@ body {
 
 
 /* ===== section 2 ===== */
+.features {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+
 
 .features-title {   
     font-weight: 500;
@@ -205,6 +210,10 @@ body {
     line-height: 1.5;
      letter-spacing: 0.02em;
 }
+
+
+
+
 
 
 /* section 3 */
