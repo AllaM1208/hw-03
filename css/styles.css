@@ -130,6 +130,10 @@ body {
     gap: 40px;
    }
 
+.contact-item {
+    display: flex;
+    gap: 40px;
+}
 
 /* hero image section 1 */
 
