@@ -78,6 +78,11 @@ body {
     margin-right: 40px;
 }
 
+.list-menu .header-item:last-child {
+    margin-right: 0;
+}
+
+
 .header-logo {
     font-family: "Raleway", sans-serif;    
     font-weight: 800;
@@ -87,7 +92,7 @@ body {
     color:var(--logo-color-1); 
     text-transform: uppercase;
     text-decoration: none;
-    margin-right: 76px
+    margin-right: 76px;
 }
 
 .header-logo-studio {
@@ -160,6 +165,8 @@ body {
     text-align: center;
     color: var(--light-text-color-2);
     max-width: 496px;
+    margin-left: auto;
+    margin-right: auto;
     }
 
 .hero-image-button {
@@ -177,6 +184,8 @@ body {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .hero-image-button:hover, 
