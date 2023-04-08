@@ -199,8 +199,8 @@ body {
     display: flex;
 }
 
-.features-item {
-    
+.list-features {
+    display: flex;
 }
 
 .features-title {   
