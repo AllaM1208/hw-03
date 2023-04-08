@@ -190,12 +190,10 @@ body {
 
 
 /* ===== section 2 ===== */
-.features {
+.container-features-title {
     padding-top: 120px;
     padding-bottom: 120px;
-}
-
-
+   }
 
 .features-title {   
     font-weight: 500;
