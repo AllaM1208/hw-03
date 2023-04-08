@@ -40,7 +40,9 @@ body {
 
 .contact {font-style: normal;}
 
-
+.img {
+    display: block;
+}
    
 /* ===== header section ===== */
 .header {
