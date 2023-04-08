@@ -58,6 +58,11 @@ body {
     align-items: center;
 }
 
+.header-menu {
+    display: flex;
+    align-items: center;
+}
+
 .header-logo {
     font-family: "Raleway", sans-serif;    
     font-weight: 800;
