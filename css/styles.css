@@ -202,8 +202,11 @@ body {
 .list-features {
     display: flex;
     gap: 24px;
-   
-}
+   }
+
+.features-item-strategy {
+    flex-basis: calc((100% - 72px)/4);
+    }
 
 .features-title {   
     font-weight: 500;
