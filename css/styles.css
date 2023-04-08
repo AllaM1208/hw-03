@@ -44,11 +44,17 @@ body {
     display: block;
 }
    
+
+
+
+
+
+
 /* ===== header section ===== */
 .header {
     background-color: var(--background-color-basic);
     border-bottom: 1px solid #e7e9fc
-       }
+}
 
 .header-container {
     max-width: 1158px;
@@ -71,7 +77,6 @@ body {
 .header-item {
     margin-right: 40px;
 }
-
 
 .header-logo {
     font-family: "Raleway", sans-serif;    
@@ -135,11 +140,18 @@ body {
     gap: 40px;
 }
 
-/* hero image section 1 */
+
+
+
+
+
+/* ===== hero image section 1 ===== */
 
 .hero-image {
     background-color: var(--dark-background-color-1);
-       }
+    padding-top: 188px;
+    padding-bottom: 188px;        
+    }
 
 .hero-title {   
     font-style: text-align;
@@ -148,8 +160,8 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: var(--light-text-color-2);
-    
-}
+    max-width: 496px;
+    }
 
 .hero-image-button {
     font-family: "Roboto", sans-serif;
@@ -158,7 +170,13 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--button-text-color-2);
-    background: var(--button-color-1);
+    background-color: var(--button-color-1);
+    cursor: pointer;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
     cursor: pointer;
 }
 
@@ -168,7 +186,11 @@ body {
 }
 
 
-/* section 2 */
+
+
+
+
+/* ===== section 2 ===== */
 
 .features-title {   
     font-weight: 500;
