@@ -125,6 +125,11 @@ body {
     color: var(--text-color-change-1);
    }
 
+.list-contact {
+    display: flex;
+    gap: 40px;
+   }
+
 
 /* hero image section 1 */
 
