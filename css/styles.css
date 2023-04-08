@@ -65,10 +65,11 @@ body {
  
 .list-menu {
     display: flex;  
+    margin-right: 40px;
 }
 
 .header-item {
-    gap: 40px;
+    margin-right: 40px;
 }
 
 
