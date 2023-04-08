@@ -195,6 +195,14 @@ body {
     padding-bottom: 120px;
    }
 
+.container-features-title {
+    display: flex;
+}
+
+.features-item {
+    
+}
+
 .features-title {   
     font-weight: 500;
     font-size: 20px;
