@@ -254,23 +254,29 @@ img {
     letter-spacing: 0.02em;
     color: var(--dark-text-color-1);
     text-transform: capitalize;
-    margin-bottom: 72px;
-}
+    margin-bottom: 72px;}
 
 .list-doing-section {
     display: flex;
     gap: 24px;
-}
+    width: 1128px;
+    margin-left: auto;
+    margin-right: auto;
+    }
 
 .item-doing-section {
     width: 360px;
 }
 
 
-/* section 4 */
+
+
+/* ===== section 4 ===== */
 .team {
+    padding-bottom: 120px;        
     background: var(--light-background-color-1);
 }
+
 
 .title-team {   
     font-size: 36px;
@@ -303,7 +309,9 @@ img {
 }
 
 
-/* footer section */
+
+
+/*===== footer section =====*/
 .footer-section {
     background: var(--dark-background-color-1);
 }
