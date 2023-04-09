@@ -26,7 +26,7 @@
 --button-text-color-2: #fff;
 }
 
-
+/* =========================================== */
 
 body {
     background-color: var(--background-color-basic);
@@ -47,10 +47,9 @@ img {
 
 
 
-
-
-
-/* ===== header section ===== */
+       
+/* =========================== */
+        /*header section*/
 .header {
     background-color: var(--background-color-basic);
     border-bottom: 1px solid #e7e9fc
@@ -144,13 +143,12 @@ img {
     display: flex;
     gap: 40px;
 }
+       /* header section */
+/* ============================== */
 
 
-
-
-
-
-/* ===== hero image section 1 ===== */
+/* ============================== */
+       /*hero image section 1 */
 .hero-image {
     background-color: var(--dark-background-color-1);
     padding-top: 188px;
@@ -192,13 +190,12 @@ img {
 .hero-image-button:focus {
     background-color:var(--button-change-color-1);
 }
+      /* hero image section 1*/
+/* =============================== */
 
 
-
-
-
-
-/* ===== section 2 ===== */
+/* =============================== */
+         /*  section 2  */
 
 .features-item-strategy {
     width: 264px;
@@ -236,12 +233,11 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+/* ===== section 2 ===== */
+/* =============================== */
 
 
-
-
-
-
+/* =============================== */
 /* ===== section 3 ===== */
 
 .doing-section {
@@ -269,10 +265,11 @@ img {
 .item-doing-section {
     width: 360px;
 }
+/* ===== section 3 ===== */
+/* =============================== */
 
 
-
-
+/* =============================== */
 /* ===== section 4 ===== */
 .team {
     padding: 120px 0;        
@@ -324,11 +321,12 @@ img {
     letter-spacing: 0.02em;
     color: var(--dark-text-color-2);
 }
+         /* section 4 */
+/* =============================== */
 
 
-
-
-/*===== footer section =====*/
+/* =============================== */
+        /*footer section */
 .footer-section {
     background: var(--dark-background-color-1);
     padding: 100px 0;
@@ -371,14 +369,15 @@ img {
     text-decoration: none;
     color: var(--logo-color-3);
 }
+       /* footer section */
+/* =============================== */
 
 
 
+/* ======== portfolio ======= */
 
-
-/* portfolio */
-
-/* Filters button section 1 */
+/* =============================== */
+  /*  Filters button section 1  */
 .filter-button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -396,9 +395,12 @@ img {
     color: var(--button-text-color-2);
     background-color: var(--button-change-color-1);
 }
+    /* Filters button section 1 */
+/* =============================== */
 
 
-/*  Row 1,2,3  */
+/* =============================== */
+          /* Row 1,2,3 */
 .project-card-title {   
     font-weight: 500;
     font-size: 20px;
@@ -413,8 +415,8 @@ img {
     letter-spacing: 0.02em;
     color: var(--dark-text-color-2);
 }
-
-
+         /*  Row 1,2,3  */
+/* =============================== */
  
 
  
