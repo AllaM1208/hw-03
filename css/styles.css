@@ -426,7 +426,7 @@ img {
 .project-card-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    column-gap: 24px;
     row-gap: 48px;
     justify-content: center;
     width: 1128px;
