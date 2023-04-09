@@ -385,9 +385,14 @@ img {
 
 .list-filter-button {
     display: flex;
+    align-items: flex-start;
     justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
     gap: 24px;
-}
+    margin-bottom: 72px;
+    width: 586px;
+   }
 
 .filter-button {
     font-family: "Roboto", sans-serif;
