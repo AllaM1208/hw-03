@@ -426,9 +426,12 @@ img {
 .project-card-list {
     display: flex;
     flex-wrap: wrap;
-    column-gap: 24px;
+    gap: 24px;
     row-gap: 48px;
     justify-content: center;
+    width: 1128px;
+    margin-left: auto;
+        margin-right: auto;
 }
 
 .project-card-item {    
