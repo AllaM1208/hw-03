@@ -392,6 +392,7 @@ img {
     gap: 24px;
     margin-bottom: 72px;
     width: 586px;
+    padding: 0;
    }
 
 .filter-button {
