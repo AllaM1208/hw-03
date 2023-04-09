@@ -383,6 +383,11 @@ img {
     padding: 96px 0 120px;
   }
 
+.container-filters-button {
+    width: 1158px;
+    margin: 0 auto;
+}
+
 .list-filter-button {
     display: flex;
     align-items: flex-start;
@@ -394,6 +399,7 @@ img {
     width: 586px;
     padding: 0;
     white-space: nowrap;
+
 }
 
 .filter-button {
@@ -429,10 +435,7 @@ img {
     column-gap: 24px;
     row-gap: 48px;
     justify-content: center;
-    width: 1128px;
-    margin-left: auto;
-    margin-right: auto;
-}
+   }
 
 .project-card-item {    
     width: calc((100% - 48px) / 3);
