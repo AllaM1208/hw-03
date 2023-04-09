@@ -331,7 +331,9 @@ img {
 /*===== footer section =====*/
 .footer-section {
     background: var(--dark-background-color-1);
+    padding: 100px 0;
 }
+
 
 .footer-section-text {  
     font-size: 16px;
@@ -361,6 +363,9 @@ img {
     text-decoration: none;
     color: var(--logo-color-3);
 }
+
+
+
 
 
 /* portfolio */
