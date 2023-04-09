@@ -404,8 +404,7 @@ img {
     letter-spacing: 0.04em;
     color: var(--button-color-1);
     background: var(--button-color-2);
-    border: var(--button-border-color-1);
-    border: 1px solid transparent;
+    border: 1px solid #e7e9fc;
     border-radius: 4px;
     cursor: pointer; 
     padding: 12px 24px;
@@ -415,7 +414,7 @@ img {
 .filter-button:focus {
     color: var(--button-text-color-2);
     background-color: var(--button-change-color-1);
-    border: var(--button-border-color-1);
+    border: 1px solid transparent;
 }
     /* Filters button section 1 */
 /* =============================== */
