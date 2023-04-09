@@ -243,6 +243,10 @@ body {
 
 /* ===== section 3 ===== */
 
+.doing-section {
+    padding-bottom: 120px;
+}
+
 .doing-title {   
     font-size: 36px;
     line-height: 1.11;
@@ -250,7 +254,7 @@ body {
     letter-spacing: 0.02em;
     color: var(--dark-text-color-1);
     text-transform: capitalize;
-    padding-bottom: 120px;
+    margin-bottom: 72px;
 }
 
 
