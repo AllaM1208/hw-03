@@ -241,7 +241,7 @@ body {
 
 
 
-/* section 3 */
+/* ===== section 3 ===== */
 
 .doing-title {   
     font-size: 36px;
@@ -250,6 +250,7 @@ body {
     letter-spacing: 0.02em;
     color: var(--dark-text-color-1);
     text-transform: capitalize;
+    padding-bottom: 120px;
 }
 
 
