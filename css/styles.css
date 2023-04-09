@@ -220,7 +220,7 @@ img {
     display: flex;
     gap: 24px; 
     padding-left: 0px;
-      }
+}
 
 .features-title {   
     font-weight: 500;
@@ -280,6 +280,7 @@ img {
 }
 
 
+   
 .title-team {   
     font-size: 36px;
     line-height: 1.11;
@@ -289,8 +290,17 @@ img {
     color: var(--dark-text-color-1);
 }
 
+.list-team {
+    display: flex;
+    gap: 24px;
+    width: 1128px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0px;
+}
+
 .item-team {
-    background: var(--background-color-basic)
+    background: var(--background-color-basic);
 }
 
 .name-team {  
