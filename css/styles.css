@@ -275,13 +275,14 @@ img {
 
 /* ===== section 4 ===== */
 .team {
-    padding-bottom: 120px;        
+    padding: 120px;        
     background: var(--light-background-color-1);
 }
 
 
    
 .title-team {   
+    margin-bottom: 72px;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
