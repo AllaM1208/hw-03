@@ -393,7 +393,7 @@ img {
     margin-bottom: 72px;
     width: 586px;
     padding: 0;
-   }
+}
 
 .filter-button {
     font-family: "Roboto", sans-serif;
@@ -405,6 +405,7 @@ img {
     background: var(--button-color-2);
     border: var(--button-border-color-1);
     cursor: pointer; 
+    padding: 12px 24px;
 }
 
 .filter-button:hover, 
