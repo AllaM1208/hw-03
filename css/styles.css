@@ -263,7 +263,7 @@ img {
 }
 
 .item-doing-section {
-    width: calc((100% - 48px) / 3);
+    width: 360px;
 }
 
 
