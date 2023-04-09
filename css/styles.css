@@ -275,7 +275,7 @@ img {
 
 /* ===== section 4 ===== */
 .team {
-    padding: 120px;        
+    padding: 120px 0;        
     background: var(--light-background-color-1);
 }
 
