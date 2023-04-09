@@ -40,7 +40,7 @@ body {
 
 .contact {font-style: normal;}
 
-.img {
+img {
     display: block;
 }
    
@@ -255,6 +255,15 @@ body {
     color: var(--dark-text-color-1);
     text-transform: capitalize;
     margin-bottom: 72px;
+}
+
+.list-doing-section {
+    display: flex;
+    gap: 24px;
+}
+
+.item-doing-section {
+    width: calc((100% - 48px) / 3);
 }
 
 
