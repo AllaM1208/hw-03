@@ -297,11 +297,11 @@ img {
 
 .item-team {
     background: var(--background-color-basic);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .item-name-team {
-    padding: 32px 16px;
-    border-radius: 0px 0px 4px 4px;
+    padding: 32px 16px;    
 }
 
 .name-team {  
@@ -382,6 +382,12 @@ img {
   .filters {
     padding: 96px 0 120px;
   }
+
+.list-filter-button {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
 
 .filter-button {
     font-family: "Roboto", sans-serif;
