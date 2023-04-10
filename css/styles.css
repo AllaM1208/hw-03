@@ -34,15 +34,7 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-.link {text-decoration: none;}
-
-.list {list-style: none;}
-
-.contact {font-style: normal;}
-
-img {
-    display: block;
-}
+img {display: block;}
    
 h1
 h2
@@ -57,6 +49,17 @@ ul {
     padding: 0;
 }
 
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
+
+.contact {
+    font-style: normal;
+}
        
 /* =========================== */
         /*header section*/
