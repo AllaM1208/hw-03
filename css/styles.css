@@ -146,11 +146,13 @@ ul {
 
 .list-contact {
     display: flex;
+    flex: start;
     gap: 40px;
    }
 
 .contact-item {
     display: flex;
+    padding-left: 150px;
     gap: 40px;
 }
        /* header section */
