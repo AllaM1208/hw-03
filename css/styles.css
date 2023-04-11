@@ -319,10 +319,14 @@ ul {
     color: var(--dark-text-color-1);
 }
 
+.container-team {
+    border-radius: 0px 0px 4px 4px;
+}
+
 .list-team {
     display: flex;
     gap: 24px; 
-    border-radius: 0px 0px 4px 4px;
+    
  }
 
 .item-team {
