@@ -321,12 +321,13 @@ ul {
 
 .list-team {
     display: flex;
-    gap: 24px;  
+    gap: 24px; 
+    border-radius: 0px 0px 4px 4px;
  }
 
 .item-team {
     background: var(--background-color-basic);
-    border-radius: 0px 0px 4px 4px;
+   
 }
 
 .item-name-team {
