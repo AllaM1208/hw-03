@@ -234,8 +234,7 @@ ul {
 
 .list-features {
     display: flex;
-    gap: 24px; 
-    padding-left: 0px;
+    gap: 24px;     
 }
 
 .features-title {   
