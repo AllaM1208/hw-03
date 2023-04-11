@@ -38,11 +38,11 @@ img {
     display: block;
 }
   
-p
-h1
-h2
-h3
-h4
+p,
+h1,
+h2,
+h3,
+h4,
 h5 {
     margin: 0;
 }
@@ -164,8 +164,7 @@ ul {
    }
 
 .contact-item {
-    display: flex;
-    padding-left: 150px;
+    display: flex;  
     gap: 40px;
 }
        /* header section */
@@ -233,7 +232,7 @@ ul {
 }
 
 .features-item-strategy {
-    width: 264px;
+    width: calc((100% - 72px) / 4);
 }
 
 
