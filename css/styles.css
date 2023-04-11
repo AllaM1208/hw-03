@@ -232,6 +232,11 @@ ul {
     display: flex;    
 }
 
+.features-item-strategy {
+    width: 264px;
+}
+
+
 .list-features {
     display: flex;
     gap: 24px; 
